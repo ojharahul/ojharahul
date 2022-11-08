@@ -10,15 +10,13 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [my portfolio](my portfolio)
-
 - 💬 Ask me about **Python, Pandas , Stat.**
 
 - 📫 How to reach me **rrojha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rahul-ojha-1952a2134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-ojha-1952a2134" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-ojha-1952a2134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-ojha-1952a2134" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
